@@ -1,3 +1,5 @@
+categories: [Hugging Face]
+
 # Hugging Face Evaluate Quick Tour
 
 
