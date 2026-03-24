@@ -369,6 +369,7 @@ def encode(examples):
 dataset = dataset.map(encode, batched=True)
 ```
 
+```python
 import torch
 
 dataset = dataset.select_columns(["input_ids", "token_type_ids", "attention_mask", "label"])
