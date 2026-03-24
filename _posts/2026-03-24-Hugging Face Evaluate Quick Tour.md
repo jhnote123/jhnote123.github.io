@@ -1,5 +1,11 @@
-# Hugging Face Evaluate Quick Tour
+---
+title: "Hugging Face Evaluate Quick Tour"
+date: 2026-03-24 22:00:00 +0900
+categories: [Hugging Face]
+tags: [evaluate, metrics, huggingface]
+---
 
+# Hugging Face Evaluate Quick Tour
 
 ```python
 # https://huggingface.co/docs/evaluate/a_quick_tour?utm_source=chatgpt.com
