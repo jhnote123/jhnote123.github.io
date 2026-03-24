@@ -518,8 +518,7 @@ plot.show()
 ```
 
 
-    
-![png](output_47_0.png)
+![Radar plot]({{ '/assets/img/posts/hf-evaluate/output_47_0.png' | relative_url }}){: w="700" h="400" }
     
 
 
