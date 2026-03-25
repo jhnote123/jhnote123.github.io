@@ -77,7 +77,7 @@ image
 
 
     
-![png](output_6_0.png)
+![img0]({{ '/assets/img/posts/hf-Image-processors/output_6_0.png' | relative_url }}){: w="600" h="600" }
     
 
 
@@ -311,7 +311,7 @@ plt.imshow(img.permute(1, 2, 0))
 
 
     
-![png](output_21_2.png)
+![img1]({{ '/assets/img/posts/hf-Image-processors/output_21_2.png' | relative_url }}){: w="400" h="600" }
     
 
 
