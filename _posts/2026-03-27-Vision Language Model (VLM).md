@@ -1,3 +1,10 @@
+---
+title: "Hugging Face Vision Language Model"
+date: 2026-03-27 16:00:00 +0900
+categories: [Hugging Face]
+tags: [vision language model, huggingface]
+---
+
 # Introduction to Vision Language Models
 
 
