@@ -1,3 +1,10 @@
+---
+title: "Hugging Face Vision Transformer (ViT)"
+date: 2026-03-27 16:00:00 +0900
+categories: [Hugging Face]
+tags: [vision language model, vision transformer, vit, huggingface]
+---
+
 # Hugging Face Vision Transformer (ViT)
 
 
