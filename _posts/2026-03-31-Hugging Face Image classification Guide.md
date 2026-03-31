@@ -1,3 +1,10 @@
+---
+title: "Hugging Face Vision Transformer (ViT)"
+date: 2026-03-27 19:00:00 +0900
+categories: [Hugging Face]
+tags: [vision transformer, vit, image classification, huggingface]
+---
+
 # Hugging Face Image classification task guide
 
 
