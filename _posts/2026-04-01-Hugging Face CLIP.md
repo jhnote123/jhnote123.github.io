@@ -1,3 +1,9 @@
+---
+title: "Hugging Face CLIP"
+date: 2026-03-27 16:00:00 +0900
+categories: [Hugging Face]
+---
+
 # Hugging Face Contrastive Language-Image Pre-Training (CLIP)
 
 CLIP은 컴퓨터 비전 모델을 학습시킬 때 고정된 수의 카테고리(class 개수)에 국한되는 한계를 해결하기 위해 등장한 멀티모달 모델이다.
