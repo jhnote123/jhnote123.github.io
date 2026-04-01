@@ -1,6 +1,6 @@
 ---
 title: "Hugging Face CLIP"
-date: 2026-03-27 16:00:00 +0900
+date: 2026-04-01 16:00:00 +0900
 categories: [Hugging Face]
 ---
 
