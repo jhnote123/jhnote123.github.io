@@ -1,6 +1,6 @@
 ---
 title: "Hugging Face Expanding Chat Templates with Tools"
-date: 2026-04-01 16:00:00 +0900
+date: 2026-06-07 16:00:00 +0900
 categories: [Hugging Face]
 ---
 
